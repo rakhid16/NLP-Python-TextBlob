@@ -15,5 +15,5 @@
 <b>6. <i>Discourse Knowledge</i></b><br>Pengetahuan tentang hubungan antar kalimat. Melakukan pengenalan apakah suatu kalimat yang telah dikenali mempengaruhi kalimat selanjutnya.<br>Contoh :<br>Rakhman membeli bakso di kantin. Ia tidak suka makan di sana<br>Kata "Ia" pada kalimat ke dua merujuk pada "Rakhman" di kalimat pertama dan kata "di sana" pada kalimat ke dua merujuk pada tempat "kantin" di kalimat pertama.<br>
 <b>7. <i>Word Knowledge</i></b><br>Mencakup arti sebuah kata secara umum dan apakah ada arti khusus bagi kata tersebut dalam percakapan dengan konteks tertentu<i>(jelas paham'kan? heheheh)</i></p>
 
-<strong>Penerapan Pengolahan Bahasa Alami</strong><br>
+<h6>Penerapan Pengolahan Bahasa Alami</h6>
 <p>Terbagi menjadi dua, yakni <i>text-based application</i> dan <i>speech-based application</i>. Di mana <i>text based application</i> diterapkan pada pemrosesan terhadap teks tulis. Contohnya mencari topik dalam berita, buku, email, menterjemahkan dokumen dll. Paham'kan? Pahamlah (: Sedangkan <i>speech-based application</i> aplikasi yang melakukan pemrosesan dari bahasa lisan atau pengenalan suara. Contohnya sistem pelayanan otomatis melalui telepon, kontrol suara pada peralatan elektronik, "Oke Google" dari Google Assistant dll.</p>
