@@ -29,7 +29,17 @@
 <p align="center">Parsing</p>
 <p>Proses menganalisa suatu kumpulan kata dengan memisahkan kata-kata itu dan menentukan struktur sintaks dari tiap kata tersebut. Parsing dapat dibedakan menjadi dua yaitu Top-down parsing dan Bottom-up parsing. Berikut contohnya</p>
 <p align="center">
-<img src="https://lh3.googleusercontent.com/1TAqNu18cZ3o98dG-qcdn0Gb355SODkaYaFmQuHQWEQWuxHFmGvo5Vo5pSyfb3sxAnmnHLMQrQbtr_owX6lGvLBXXr-xlnVyy0sYKNUIimPHqL6YjqqC7QVAKqVK-6gB8zeiTBCBV3kgvsHb4YJMruvrsoYRXB6UWb5gbSjQ2uqMKTJo_svKdGbBVabiWQf7ol1ijDboLP9hQUKh1rDLPR-EfEoJuZUaHiloSZxycpjIZRHH-Wrx4_8YwqoMxUv_Ab2ctQJ-gfQbPny-oJsRUdL8WztOZSBRkCZQsIxN8joEfKtU1prFqJ4G55m5HmVAp_pIp3xe07fMb_SGiXhX2wGgShaNovXUxoui6yd-y2wKNzNVQub8OHQ-1oFmWSpRmGXy_Dt1ogtY8y4dPz10K8jqHL2ZDFprGv3Q7mBqTZ8Nm2qrgoKtXzYzASEwTN1vbXubgmOZpLDv-aW01DYMxFDfKANT5Xqq-_ERCBRuaLRLAcoYv6n2--ryzx3lxK6wErOOlFfHunBNII1UfbQH_XhHkJoRC7wgWjaxWsCuQsYUlE_vZgSw2M2iM3aMplD6sKSFN9Qnv-IlBlkWixXuZLMijHN4ayNa8Fn_L8c=w715-h452-no" height="350"/><br>Kalau Top-down parsing pahamlah :v</p>
+<img src="https://lh3.googleusercontent.com/1TAqNu18cZ3o98dG-qcdn0Gb355SODkaYaFmQuHQWEQWuxHFmGvo5Vo5pSyfb3sxAnmnHLMQrQbtr_owX6lGvLBXXr-xlnVyy0sYKNUIimPHqL6YjqqC7QVAKqVK-6gB8zeiTBCBV3kgvsHb4YJMruvrsoYRXB6UWb5gbSjQ2uqMKTJo_svKdGbBVabiWQf7ol1ijDboLP9hQUKh1rDLPR-EfEoJuZUaHiloSZxycpjIZRHH-Wrx4_8YwqoMxUv_Ab2ctQJ-gfQbPny-oJsRUdL8WztOZSBRkCZQsIxN8joEfKtU1prFqJ4G55m5HmVAp_pIp3xe07fMb_SGiXhX2wGgShaNovXUxoui6yd-y2wKNzNVQub8OHQ-1oFmWSpRmGXy_Dt1ogtY8y4dPz10K8jqHL2ZDFprGv3Q7mBqTZ8Nm2qrgoKtXzYzASEwTN1vbXubgmOZpLDv-aW01DYMxFDfKANT5Xqq-_ERCBRuaLRLAcoYv6n2--ryzx3lxK6wErOOlFfHunBNII1UfbQH_XhHkJoRC7wgWjaxWsCuQsYUlE_vZgSw2M2iM3aMplD6sKSFN9Qnv-IlBlkWixXuZLMijHN4ayNa8Fn_L8c=w715-h452-no" height="200" width="350" /><br>Kalau Top-down parsing pahamlah :v</p>
 
 <p align="center">
 <img src="https://memegenerator.net/img/instances/55005542/thats-all-i-have-to-say-about-that.jpg" /></p>
+<h3>Peralatan</h3>
+<p align="center">
+<img src="https://www.python.org/static/img/python-logo.png" /></p>
+<p>Saya saran'kan menggunakan Python vers 3 ke atas. Kenapa? Karena dukungan untuk python versi 2.7 sebentar lagi dihentikan dan untuk tutorial yang saya sediakan di sini menggunakan python versi 3 lebih tepatnya 3.6.2. Bagi pengguna Mac & Ubuntu kalian bisa ngoding langsung di terminal. Kalo pengguna windows kalian kudu unduh dulu .exe nya. Setelah itu install .exe nya kemudian install pip. Cari aja di Google "How to install pip in windows" gampang kok heheheh.</p>
+  
+<p align="center">
+<img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" /></p>
+Karena tutorial pake NLTK sudah banyak dan TextBlob mudah digunakan untuk pemula jadi daya putuskan pake TextBlob aja heheheh. Cara installnya gampang. Kalo kalian berhasil install pip tinggal buka cmd(windows) terus ketik ini<br>
+<h4>pip install TextBlob</h4> atau <h4>pip install -U TextBlob</h4><br>terus enter
+<h4>python -m textblob.download_corpora</h4><br>terus enter. Kalo proses unduh dan install'nya selesai berarti laptop kalian dah siap! :D 
