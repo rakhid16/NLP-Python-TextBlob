@@ -39,7 +39,7 @@
 <p>Saya saran'kan menggunakan Python vers 3 ke atas. Kenapa? Karena dukungan untuk python versi 2.7 sebentar lagi dihentikan dan untuk tutorial yang saya sediakan di sini menggunakan python versi 3 lebih tepatnya 3.6.2. Bagi pengguna Mac & Ubuntu kalian bisa ngoding langsung di terminal. Kalo pengguna windows kalian kudu unduh dulu .exe nya. Setelah itu install .exe nya kemudian install pip. Cari aja di Google "How to install pip in windows" gampang kok heheheh.</p>
   
 <p align="center">
-<img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" /></p>
-Karena tutorial pake NLTK sudah banyak dan TextBlob mudah digunakan untuk pemula jadi daya putuskan pake TextBlob aja heheheh. Cara installnya gampang. Kalo kalian berhasil install pip tinggal buka cmd(windows) terus ketik ini<br>
-<h4>pip install TextBlob</h4> atau <h4>pip install -U TextBlob</h4><br>terus enter
-<h4>python -m textblob.download_corpora</h4><br>terus enter. Kalo proses unduh dan install'nya selesai berarti laptop kalian dah siap! :D 
+<img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" width="350" height="350" /></p>
+Karena tutorial pake NLTK sudah banyak dan TextBlob mudah digunakan untuk pemula jadi daya putuskan pake TextBlob aja heheheh. Cara installnya gampang. Kalo kalian berhasil install pip tinggal buka cmd(windows)/terminal (Mac & Ubuntu) terus ketik ini
+<h5>pip install TextBlob</h5> atau <h5>pip install -U TextBlob</h5>terus enter
+<h5>python -m textblob.download_corpora</h5>terus enter. Kalo proses unduh dan install'nya selesai berarti laptop kalian dah siap! :D 
