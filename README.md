@@ -20,8 +20,16 @@
 <p align="center">
 <img src="http://i1.kym-cdn.com/photos/images/newsfeed/000/531/557/a88.jpg" width="350"/></p>
 
-<center><b>Gramatika</b></center>
+<p align="center">Gramatika</p>
 <p>Suatu aturan yang menentukan apakah suatu kumpulan kata dapat diterima sebagai kalimat oleh bahasa tersebut. Grammar dari Chomsky Hierarchy yaitu Context Free Grammar memiliki sifat lebih mudah dipahami perilakunya dan pengolahannya serta masih dapat diolah dalam bentuk yang terstruktur. CFG merepresentasikan bahwa suatu gramar itu dapat dibentuk dari empat elemen, yaitu : simbol awal, aturan penulisan, simbol non terminal, simbol terminal. Berikut contohnya</p>
-<p align="cennter">
+<p align="center">
 <img src="https://lh3.googleusercontent.com/6LZKMcCKb_ObYjrxmhhv3dkC5sQo41Y99DUBr9K_FEyJyF2SHBfHwU3EfyPmLKw4tP4bu_EfmdAcTNWmmUiQlmR3lxUbnbWD7DFtbDfQJmG2CnWiAjgtSVjjRKGVBIACamBmsfjNrf5-ruxfLHxWw_kPbJQedM_uC1tWb6D9SfiIxCVefDbwyYPRb287pXbPAQK5_0YY_FwA3WaABhSlgz26Uym2czBm0Mu9o1PcWcSB_grFlMkqdt1nUazYOg6Pnl6dCSy5hquTFCUXKC3LJyisuHRFR3xCzBaWzn5A-pZuWDM2ywxo55s1My9-gmA72LnOm_CylTDz6wey_CZdP8Zt0g2NO9nwSq-BZcrhnvQgyUAu-J8bLxxUqOxDx-wPCadApvkvOlyDuSdsGPRoxN3jSeJY6exx3h53kHepvcoXEuF3EfALpxbXXoKEajwDawv22nIQzYhcfdMJL-8Aqw_vH2TuKJLmixPEFo_kEpCG2HBXBMTTUuVhpgoLd9tLKRWByDoSPKT6Ykj_ERfhC96Ga-9VFotAu3AyMomrarG3z304iI5L9jVbl4fsEZztXLpUfvE2xiYS85pC35uP0lCKw4Gib4u-pNtn2us=w870-h440-no" width="350"/>
 </p>
+
+<p align="center">Parsing</p>
+<p>Proses menganalisa suatu kumpulan kata dengan memisahkan kata-kata itu dan menentukan struktur sintaks dari tiap kata tersebut. Parsing dapat dibedakan menjadi dua yaitu Top-down parsing dan Bottom-up parsing. Berikut contohnya</p>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/1TAqNu18cZ3o98dG-qcdn0Gb355SODkaYaFmQuHQWEQWuxHFmGvo5Vo5pSyfb3sxAnmnHLMQrQbtr_owX6lGvLBXXr-xlnVyy0sYKNUIimPHqL6YjqqC7QVAKqVK-6gB8zeiTBCBV3kgvsHb4YJMruvrsoYRXB6UWb5gbSjQ2uqMKTJo_svKdGbBVabiWQf7ol1ijDboLP9hQUKh1rDLPR-EfEoJuZUaHiloSZxycpjIZRHH-Wrx4_8YwqoMxUv_Ab2ctQJ-gfQbPny-oJsRUdL8WztOZSBRkCZQsIxN8joEfKtU1prFqJ4G55m5HmVAp_pIp3xe07fMb_SGiXhX2wGgShaNovXUxoui6yd-y2wKNzNVQub8OHQ-1oFmWSpRmGXy_Dt1ogtY8y4dPz10K8jqHL2ZDFprGv3Q7mBqTZ8Nm2qrgoKtXzYzASEwTN1vbXubgmOZpLDv-aW01DYMxFDfKANT5Xqq-_ERCBRuaLRLAcoYv6n2--ryzx3lxK6wErOOlFfHunBNII1UfbQH_XhHkJoRC7wgWjaxWsCuQsYUlE_vZgSw2M2iM3aMplD6sKSFN9Qnv-IlBlkWixXuZLMijHN4ayNa8Fn_L8c=w715-h452-no" height="350"/><br>Kalau Top-down parsing pahamlah :v</p>
+
+<p align="center">
+<img src="https://memegenerator.net/img/instances/55005542/thats-all-i-have-to-say-about-that.jpg" /></p>
