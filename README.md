@@ -3,7 +3,7 @@
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
 <p align="center">
-<img src="http://memegenerator.net/img/instances/72705299/come-and-do-nlp-join-the-dark-side.jpg" height="350"/></p>
+<img src="https://i.redd.it/ipy3vvkma2501.jpg"/></p>
 
 <h3>Wajib Ngarti</h3>
 <p>Pengolahan/Pemrosesan Bahsa Alami<i>(yang biasa disebut dengan Natural Language Processing)</i> merupakan cabang dari Kecerdasan Buatan yang mengombinasikan ilmu linguistik dan ilmu komputer. Tujuan dari pengolahan bahasa alami adalah melakukan pemodelan komputasi dari bahasa, sehingga dapat terjadi interaksi antara manusia dan mesin dengan perantara bahasa alami.</p>
